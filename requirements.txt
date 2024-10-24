@@ -1,0 +1,7 @@
+plotly.express
+numpy
+pywebio
+matplotlib
+seaborn
+typing
+pandas
