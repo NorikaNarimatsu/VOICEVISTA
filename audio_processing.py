@@ -39,7 +39,7 @@ def speakerDiarization(audio_file):
     '''
     pipeline = Pipeline.from_pretrained(
     "pyannote/speaker-diarization-3.0",
-    use_auth_token="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")
+    use_auth_token="hogehoge")
     diarization = pipeline(audio_file)
 
     results = []
